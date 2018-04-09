@@ -1,0 +1,8 @@
+.about-container {
+  --about-color: #333640;
+  height: 60vh;
+  background-color: var(--about-color);
+  order: 2;
+}
+
+/*background-color: #5C7364;*/
